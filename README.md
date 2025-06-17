@@ -6,5 +6,6 @@ Description....
 Why isn't it changing lines?
 
 ## Subheader
-Some more text \n
+Some more text
+<br>
 testing
