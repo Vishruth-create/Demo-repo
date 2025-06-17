@@ -1,9 +1,8 @@
 # Demo
 
-Description....
-...........
-.......
-Why isn't it changing lines?
+Description
+<br>
+changing lines?
 
 ## Subheader
 Some more text
